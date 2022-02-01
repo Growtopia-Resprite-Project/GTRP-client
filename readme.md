@@ -8,7 +8,7 @@ GTRP Client currently only supports Windows.
 + `GTRP 1.x.ahk`
 + `vCache` - viewCache : A powerful library that can manage all `cache`-related resprites
 
-#### GTRP Client by sadfaceman
+### GTRP Client by sadfaceman
 <a href="https://www.growtopiagame.com" target=_blank><img src="https://drive.google.com/thumbnail?id=1wKIMyhVIyLEH5YcAuSMGGoluBI1CbukC" alt="Discord" width="16" height="16" style="float:left">**sadfaceman (GrowID)**</img>
 
 <a href="https://www.growtopiagame.com/forums/member/375839-astigmatisme" target=_blank><img src="https://drive.google.com/thumbnail?id=1wKIMyhVIyLEH5YcAuSMGGoluBI1CbukC" alt="Discord" width="16" height="16" style="float:left">**Astigmatisme (Forums)**</img>
@@ -16,7 +16,7 @@ GTRP Client currently only supports Windows.
 <a href="https://www.discord.com" target=_blank><img src="https://drive.google.com/thumbnail?id=1vBtDJR6I7AmdS3tf9UtPhj2dWnrFEgsE" alt="Discord" width="16" height="16" style="float:left">**SadFaceMan#7617**</img>
 
 ## How to install
-### Windows
+#### Windows
 1. Close Growtopia if it's running
 2. Open your Growtopia installation folder
     + This is usually located in `C:\Users\...\AppData\Local\Growtopia`
