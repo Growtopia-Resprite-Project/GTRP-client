@@ -1,0 +1,7 @@
+#NoEnv
+SendMode Input
+#Persistent
+#SingleInstance Force
+SetWorkingDir, %A_ScriptDir_%
+
+ViewType := "\
