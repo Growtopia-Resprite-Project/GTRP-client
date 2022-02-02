@@ -6,7 +6,8 @@ GTRP Client currently only supports Windows.
 
 #### Files :
 + `GTRP 1.x.ahk`
-+ `vCache` - viewCache : A powerful library that can manage all `cache`-related resprites
++ `vCache` - viewCache, a powerful tool that can manage all `cache`-related resprites
++ `Resprites` - Folder that will contain all GTRP resprite intsallations
 
 ### GTRP Client by sadfaceman
 <a href="https://www.growtopiagame.com" target=_blank><img src="https://drive.google.com/thumbnail?id=1wKIMyhVIyLEH5YcAuSMGGoluBI1CbukC" alt="Discord" width="16" height="16" style="float:left">**sadfaceman (GrowID)**</img>
@@ -17,15 +18,21 @@ GTRP Client currently only supports Windows.
 
 ## How to install
 #### Windows
-1. Close Growtopia if it's running
-2. Open your Growtopia installation folder
+1. Install [AutoHotkey](https://www.autohotkey.com/)
+    + GTRP Client uses 100% AutoHotkey scripts to function
+2. Install the latest release of [GTRP Client](https://github.com/Growtopia-Resprite-Project/GTRP-client/releases)
+3. Close Growtopia if it's running
+4. Open your Growtopia installation folder
     + This is usually located in `C:\Users\...\AppData\Local\Growtopia`
     + To find your Growtopia installation folder, right click the Growtopia shortcut on your desktop and click "Open file location"
-3. Extract the contents of `GTRP 1.x.zip` to `Growtopia`
-4. Create a new folder in `Growtopia` named `Resprites`. This is where downloaded resprites will go
-5. Run GTRP 1.x.ahk
+5. Extract the contents of `GTRP 1.x.zip` to `Growtopia`
+6. Extract resprite installations to `Resprites`
+    + This is where all resprite installs will go
+    + An example resprite named `GTRP-client` can be used as a reference
+    + More info about installing resprites can be found at each resprite's `readme.md` and the wiki
+7. Run GTRP 1.x.ahk
     + `Growtopia.exe` will be run by the client itself.
 
-For instructions on how to create and install resprites, please visit the wiki.
+For instructions on how to create resprites, please visit the wiki.
 
 > Powered by Growtopia Resprite Project - All resprites are "client-side" modifications. Modified textures will only appear on your client, and everyone else will not see the resprite, unless they also have the same resprites.
