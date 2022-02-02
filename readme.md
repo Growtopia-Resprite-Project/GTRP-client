@@ -1,5 +1,7 @@
 # Growtopia Resprite Project Client
 
+<div style="text-align: center;"><img src="https://i.imgur.com/vbuymf6.png" alt="GTRP Client" style="text-align: center;"></div>
+
 The Growtopia Resprite Project Client is a pseudoclient that manages and cotrols all GTRP resprites.
 
 GTRP Client currently only supports Windows.
@@ -10,11 +12,11 @@ GTRP Client currently only supports Windows.
 + `Resprites` - Folder that will contain all GTRP resprite intsallations
 
 ### GTRP Client by sadfaceman
-<a href="https://www.growtopiagame.com" target=_blank><img src="https://drive.google.com/thumbnail?id=1wKIMyhVIyLEH5YcAuSMGGoluBI1CbukC" alt="Discord" width="16" height="16" style="float:left">**sadfaceman (GrowID)**</img>
+<a href="https://www.growtopiagame.com" target=_blank><img src="https://drive.google.com/thumbnail?id=1wKIMyhVIyLEH5YcAuSMGGoluBI1CbukC" alt="Discord" width="16" height="16" style="float:left">**sadfaceman (GrowID)**</img></a>
 
-<a href="https://www.growtopiagame.com/forums/member/375839-astigmatisme" target=_blank><img src="https://drive.google.com/thumbnail?id=1wKIMyhVIyLEH5YcAuSMGGoluBI1CbukC" alt="Discord" width="16" height="16" style="float:left">**Astigmatisme (Forums)**</img>
+<a href="https://www.growtopiagame.com/forums/member/375839-astigmatisme" target=_blank><img src="https://drive.google.com/thumbnail?id=1wKIMyhVIyLEH5YcAuSMGGoluBI1CbukC" alt="Discord" width="16" height="16" style="float:left">**Astigmatisme (Forums)**</img></a>
 
-<a href="https://www.discord.com" target=_blank><img src="https://drive.google.com/thumbnail?id=1vBtDJR6I7AmdS3tf9UtPhj2dWnrFEgsE" alt="Discord" width="16" height="16" style="float:left">**SadFaceMan#7617**</img>
+<a href="https://www.discord.com" target=_blank><img src="https://drive.google.com/thumbnail?id=1vBtDJR6I7AmdS3tf9UtPhj2dWnrFEgsE" alt="Discord" width="16" height="16" style="float:left">**SadFaceMan#7617**</img></a>
 
 ## How to install
 #### Windows
