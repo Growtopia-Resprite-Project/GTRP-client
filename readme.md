@@ -1,6 +1,6 @@
 # Growtopia Resprite Project Client
 
-The Growtopia Resprite Project Client is a pseudoclient that manages and cotrols all GTRP resprites. It can load all valid resprites, as well as manage `cache` resprite difficulties.
+The Growtopia Resprite Project Client is a pseudoclient that manages and cotrols all GTRP resprites.
 
 GTRP Client currently only supports Windows.
 
